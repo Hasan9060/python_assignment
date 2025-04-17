@@ -1,15 +1,3 @@
 streamlit
 cryptography
-streamlit-lottie
-streamlit_folium
-pandas
-numpy
-opencv-python
-folium
-Flask
-Flask-Login
-Flask-SQLAlchemy
-SQLAlchemy
-requests
-qrcode
-python-dotenv
+
